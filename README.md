@@ -1,7 +1,5 @@
 gsb
 ===
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Jacksly91/gsb.git
-git push -u origin master
+Bienvenue dans la plateforme de développement de Galaxy-Swiss Bourdin.
+Dans cette plateforme, tous les collaborateurs et développeurs responsables du code rassembleront leurs travaux.
+Bon travail.
